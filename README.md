@@ -13,6 +13,8 @@ pip install python3
 ## Usage
 
 ```python
-//to drop to the python3 shell
-user:~user01$ python3
+user:~user01$ python3 # drop to python shell
+
+user:~user01$ source main.py # source to run main python script
+
 ```
