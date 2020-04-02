@@ -13,10 +13,6 @@ pip install python3
 ## Usage
 
 ```python
-
-mkdir mbta-project
-
-cd mbta-project
-
-python3
+//to drop to the python3 shell
+user:~user01$ python3
 ```
